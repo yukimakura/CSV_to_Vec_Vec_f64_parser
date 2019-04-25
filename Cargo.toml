@@ -1,0 +1,7 @@
+[package]
+name = "CSV_to_Vec_Vec_f64_parser"
+version = "0.1.0"
+authors = ["yukimakura <yukimakura86@gmail.com>"]
+
+[dependencies]
+csv = "1"
